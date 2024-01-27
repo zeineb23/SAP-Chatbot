@@ -24,7 +24,7 @@ To run the notebooks locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/SAP-Chatbot.git
+git clone https://github.com/zeineb23/SAP-Chatbot.git
 ```
 2.Navigate to the project directory:
 ```bash
