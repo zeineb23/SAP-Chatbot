@@ -8,7 +8,6 @@ SAP Chatbot is a project aimed at building a chatbot system that leverages natur
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
@@ -26,3 +25,26 @@ To run the notebooks locally, follow these steps:
 
 ```bash
 git clone https://github.com/your_username/SAP-Chatbot.git
+
+2.Navigate to the project directory:
+```bash
+cd SAP-Chatbot
+
+3.Install the required dependencies:
+```bash
+pip install -r requirements.txt
+
+##Usage
+
+To use the SAP Chatbot notebooks, follow the instructions provided in each notebook. These notebooks provide step-by-step guides on how to scrape FAQs, extract answers from PowerPoint presentations, and use the pipeline question-answering model from the Transformers library.
+
+##Contributing
+If you'd like to contribute to the SAP Chatbot project, please follow these guidelines:
+
+1.Fork the repository
+2.Create a new branch (git checkout -b feature)
+3.Make your changes and commit them (git commit -am 'Add new feature')
+4.Push to the branch (git push origin feature)
+5.Create a new Pull Request
+
+Please ensure that your contributions align with the project's goals and coding standards.
