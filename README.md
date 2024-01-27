@@ -34,11 +34,11 @@ cd SAP-Chatbot
 ```bash
 pip install -r requirements.txt
 ```
-##Usage
+## **Usage** 
 
 To use the SAP Chatbot notebooks, follow the instructions provided in each notebook. These notebooks provide step-by-step guides on how to scrape FAQs, extract answers from PowerPoint presentations, and use the pipeline question-answering model from the Transformers library.
 
-##Contributing
+## **Contributing**
 If you'd like to contribute to the SAP Chatbot project, please follow these guidelines:
 
 1.Fork the repository
