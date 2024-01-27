@@ -25,15 +25,15 @@ To run the notebooks locally, follow these steps:
 
 ```bash
 git clone https://github.com/your_username/SAP-Chatbot.git
-
+"```"
 2.Navigate to the project directory:
 ```bash
 cd SAP-Chatbot
-
+"```"
 3.Install the required dependencies:
 ```bash
 pip install -r requirements.txt
-
+"```"
 ##Usage
 
 To use the SAP Chatbot notebooks, follow the instructions provided in each notebook. These notebooks provide step-by-step guides on how to scrape FAQs, extract answers from PowerPoint presentations, and use the pipeline question-answering model from the Transformers library.
